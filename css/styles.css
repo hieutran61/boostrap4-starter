@@ -57,5 +57,8 @@ body {
   background: #512DA8;
   color: floralwhite; }
 
+.close {
+  color: floralwhite; }
+
 .modal-body {
   background: #D1C4E9; }
